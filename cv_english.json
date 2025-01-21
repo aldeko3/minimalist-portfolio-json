@@ -3,10 +3,10 @@
     "name": "Asier Aldekoa Bengoetxea",
     "label": "Full-Stack developer with more than 15 years of experience & development content creator",
     "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
+    "email": "aaldekoaben@gmail.com",
+    "phone": "+34 688 686 014",
     "url": "https://midu.dev",
-    "summary": "+15 years of experience as a web developer. Currently I am a content creator and development dommunicator. I live in Barcelona, Spain. I have worked in different environments: from accelerating the development of start-ups to leading teams in multinational companies.",
+    "summary": "Graduado en Ingeniería Informática por la Universidad de Mondragón, con un fuerte interés en el desarrollo front-end y las soluciones digitales. Apasionado del deporte, en especial el fútbol y el snowboard, siempre en busca de nuevos retos tanto en el ámbito tecnológico como deportivo.",
     "location": {
       "address": "",
       "postalCode": "08820",
@@ -21,11 +21,6 @@
         "url": "https://linkedin.com/in/midudev"
       },
       {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
-      },
-      {
         "network": "GitHub",
         "username": "midudev",
         "url": "https://github.com/midudev"
@@ -36,7 +31,7 @@
     {
       "name": "midudev",
       "position": "Web programming communicator",
-      "url": "https://twitch.tv/midudev",
+      "url": "https://cyc.es/",
       "startDate": "2021-01-01",
       "endDate": null,
       "summary": "Most watched development streamer in Spanish on Twitch. +1 million followers across all my social networks. Recognised by Google, Microsoft and GitHub for my impact on the development community.",

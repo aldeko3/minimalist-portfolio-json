@@ -97,8 +97,8 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
   .info {
     display: flex;
     flex-direction: column;
-    gap: 0.5rem;
-    padding-right: 32px;
+    gap: 1rem;
+    width: 100%;
   }
 
   h1 {
@@ -110,12 +110,13 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
     font-weight: 500;
     font-size: 1.1rem;
     text-wrap: balance;
+    line-height: 25px;
   }
 
   img {
     aspect-ratio: 1 / 1;
     object-fit: cover;
-    width: 128px;
+    width: 254px;
     border-radius: 16px;
   }
 
@@ -141,18 +142,16 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    border: 1px solid #eee;
     padding: 4px;
-    height: 32px;
-    width: 32px;
-    border-radius: 6px;
+    height: 36px;
+    width: 36px;
     transition: all 0.3s ease;
   }
 
-  footer a:hover {
+  /* footer a:hover {
     background: #eee;
     border: 1px solid #ddd;
-  }
+  } */
 
   @media (width <= 700px) {
     .container {

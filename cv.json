@@ -1,29 +1,24 @@
 {
   "basics": {
     "name": "Asier Aldekoa Bengoetxea",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
+    "label": "Ingeniero de soluciones digitales SharePoint Online con 3 años de experiencia",
     "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
+    "email": "aaldekoaben@gmail.com",
+    "phone": "+34 688 686 014",
     "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "summary": "Graduado en Ingeniería Informática por la Universidad de Mondragón, con un fuerte interés en el desarrollo front-end y las soluciones digitales. Apasionado del deporte, en especial el fútbol y el snowboard, siempre en busca de nuevos retos tanto en el ámbito tecnológico como deportivo.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
+      "postalCode": "48993",
+      "city": "Algorta, Getxo",
       "countryCode": "ES",
-      "region": "España"
+      "region": "Bizkaia"
     },
     "profiles": [
       {
         "network": "LinkedIn",
         "username": "midudev",
         "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
       },
       {
         "network": "GitHub",
@@ -34,60 +29,28 @@
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "CYC |Consultoría y Comunicaciones",
+      "position": "Desarrollador Microsoft 365",
+      "url": "https://cyc.es/",
+      "startDate": "Noviembre 2021",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "summary": [
+        "Especialización en el desarrollo de portales de comunicación en SharePoint Online.",
+        "Gestión y administración de entornos SharePoint Online, asegurando la implementación eficaz de soluciones y el cumplimiento de las mejores prácticas.",
+        "Creación y personalización de componentes para SharePoint Online.",
+        "Colaboración en proyectos a medida para clientes destacados como Viscofan, Laboral Kutxa y Lagun Aro, entre otros, ofreciendo soluciones adaptadas a sus necesidades."
+      ],
       "highlights": [
         "Started the company"
       ]
     }
   ],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
+    "institution": "Universidad de Mondragón",
+    "url": "https://www.mondragon.edu/es/inicio",
+    "area": "Grado en ingeniería Informática",
+    "startDate": "Septiembre 2018",
+    "endDate": "Julio 2022"
   }],
   "awards": [{
     "title": "Award",
